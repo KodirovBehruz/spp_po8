@@ -39,3 +39,30 @@ replay_pid*
 # Maven
 log/
 target/
+
+# C Sharp
+*.sln
+*.pdb
+*.cache
+*.editorconfig
+*.AssemblyInfo.cs
+*.AssemblyAttributes.cs
+*.g.cs
+*.info
+*.props
+*.csproj
+*.targets
+*.v2
+*.vsidx
+*.suo
+*.bin
+*.BuildWithSkipAnalyzers
+Debug/
+
+# Common
+*.json
+*.dll
+*.exe
+*.txt
+/.vs/slnx.sqlite
+/.vs/slnx.sqlite-journal
